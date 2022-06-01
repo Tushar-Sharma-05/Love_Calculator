@@ -1,0 +1,6 @@
+tushar = len("hello tushar")
+# print(tushar)
+# print(type(tushar))
+# new = str(tushar)
+# print(type(tushar))
+# print(new[0:4])
